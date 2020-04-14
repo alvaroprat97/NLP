@@ -45,6 +45,6 @@ From the root directory, you can run:
 `python3 -m evolution` to run the evolutionary manager pipeline. No options are required as all config options are hard-coded into the python file.
 
 ## Documents
-Please read our works on ROSETTA in the provided pdf document (Paper.pdf).
+Please read our works on ROSETTA in the provided pdf document (NLP_paper.pdf). This paper has not been published (yet).
 
 
